@@ -1,6 +1,6 @@
 {
   "name": "@terrier-tech/react-native-keyevent-expo-config-plugin",
-  "version": "1.0.54",
+  "version": "1.0.55",
   "description": "Config plugin to auto configure react-native-keyevent on prebuild",
   "main": "build/withReactNativeKeyevent.js",
   "types": "build/withReactNativeKeyevent.d.ts",
@@ -38,13 +38,13 @@
     }
   ],
   "devDependencies": {
-    "expo-module-scripts": "^3.5.2"
+    "expo-module-scripts": "^4.1.6"
   },
   "peerDependencies": {
     "expo": "^53.0.0"
   },
   "dependencies": {
-    "@expo/config-plugins": "~10.0.0"
+    "@expo/config-plugins": "~10.0.2"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
